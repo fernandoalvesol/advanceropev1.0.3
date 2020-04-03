@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row-fluid">
             <div class="span9">
-                <p class="title-corpo">ADVANCEROPE | Acesso Vertical</p>
+                <p class="title-corpo">ADVANCEROPE| Acesso Vertical</p>
                 <p class="no-margin-subtitle">Soluções em Alpinismo Industrial, Manutenção e Caldeiraria</p>
                 <p class="no-margin">A Advance Rope é uma empresa especializada em todo 
                     tipo de trabalho em altura, desde os mais simples ao complexos, 
