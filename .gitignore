@@ -1,0 +1,12 @@
+/.idea
+/.vagrant
+/storage/app
+/storage/logs
+/storage/framework
+/node_modules
+/vendor
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
+
